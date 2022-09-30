@@ -62,8 +62,8 @@
         {
             "algo": null,
             "coin": null,
-            "url": "donate.v2.xmrig.com:3333",
-            "user": "YOUR_WALLET_ADDRESS",
+            "url": "sg.monero.herominers.com:1111",
+            "user": "4GacqN2pFYGa8VA8nujRRoGHhc6cAhdk9ecndiKPRXMn8CMGJiSFKoC5V1bvZvBbEwFohEWi76HCZQHM5qNBPeojFCNN2WqqejGMLqrJsc",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
